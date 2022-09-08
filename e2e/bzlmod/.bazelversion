@@ -1,1 +1,2 @@
-../../.bazelversion
+last_green
+# Bazel 5.3.0 has bzlmod bugs so we use HEAD, which will be similar to Bazel 6.0
